@@ -1,0 +1,23 @@
+SMMPro - Piattaforma di Gestione dei Contenuti per i Social Media
+
+📌 Background
+
+SMMPro è progettato per semplificare e ottimizzare la creazione, modifica e pubblicazione di contenuti video sui social network. L’obiettivo principale è ridurre il tempo di produzione massimizzando il coinvolgimento del pubblico.
+
+Attualmente, i creatori di contenuti, i marketer e le piccole imprese utilizzano strumenti frammentati per l’editing, l’ottimizzazione cross-platform e la pianificazione, con conseguenti costi elevati e flussi di lavoro inefficienti.
+
+📌 Requisiti
+
+✅ Must-Have (M)
+	•	Caricamento dei video
+	•	Editing video basato su AI (adattamento formato, filtri, sottotitoli automatici)
+	•	Pianificazione post sui social media (Facebook, Instagram, TikTok, YouTube)
+	•	Dashboard di analisi in tempo reale (visualizzazioni, metriche di engagement)
+	•	Autenticazione OAuth (Google, Facebook, Apple) con 2FA opzionale
+	•	Conformità GDPR (crittografia dei dati, eliminazione controllata dagli utenti)
+	•	Voiceover AI-powered
+	•	Generazione assistita da AI di hashtag e didascalie
+	•	Sistema di notifiche (push, email) per post programmati e analisi
+	•	Supporto multilingua e localizzazione (+10 lingue)
+	•	Integrazione con gateway di pagamento per funzionalità premium (Stripe)
+	•	Conformità PCI DSS per transazioni sicure
